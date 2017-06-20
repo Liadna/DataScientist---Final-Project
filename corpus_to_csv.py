@@ -30,9 +30,9 @@ def create_csv(path):
         speeches[key] = l
 
     # write data to csv file
-    with open(path + "\data1.csv", "wb") as csv_file:
+    with open(path + "\data.csv", "wb") as csv_file:
         writer = csv.writer(csv_file, delimiter=",")
-
+        writer.writerow(["speech", "class"])
         for key, value in speeches.iteritems():
             for row in value:
                 writer.writerow([row, key])
