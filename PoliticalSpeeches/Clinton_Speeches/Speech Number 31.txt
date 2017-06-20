@@ -21,11 +21,8 @@ Example: We cut the White House staff by 25 percent to set a standard for cuttin
 But the work load of the White House is way up.
 We're getting all-time record telephone calls and letters coming in, and we have to serve our customers, too.
 Our customers are the people that put us there, and if they have to wait 3 months for an answer to a letter, that's not service.But when we took office, I walked into the Oval Office&mdash;it's supposed to be the nerve center of the United States&mdash;and we found Jimmy Carter's telephone system.
-<i[Laughter]</i All right.
 No speaker phone, no conference calls, but anybody in the office could punch the lighted button and listen to the President talk, so that I could have the conference call I didn't want but not the one I did.
-<i[Laughter]</i Then we went down into the basement where we found Lyndon Johnson's switchboard- <i[laughter]</i &mdash;true story&mdash;where there were four operators working from early morning till late at night.
 Literally, when a phone would come and they'd say, I want to talk to the Vice President's office, they would pick up a little cord and push it into a little hole.
-<i[Laughter]</i That's today, right? We found procedures that were so bureaucratic and cumbersome for procurement that Einstein couldn't figure them out.
 And all the offices were organized in little closed boxes, just the opposite of what you see.
 In our campaign, however, we ran an organization in the Presidential campaign that was very much like this.
 Most decisions were made in a great big room in morning meetings that we had our senior staff in, but any 20-year-old volunteer who bad a good idea could walk right in and say, Here's my idea.
@@ -37,7 +34,6 @@ And this is the first one I've ever worked in, and it has no organizational char
 I can't figure out what it looks like on paper, but it works.
 The Vice President was making fun of me when we were getting ready for the speech I gave Wednesday night to the Congress; it was like making sausage.
 People were running in and out saying, Put this in, and take this out.
-<i[Laughter]</i But it worked.
 You know, it worked.
 So I want to hear from you, but I want you to know that we have hired a person at the Office of Management and Budget who has done a lot of work in creating new businesses and turning businesses around, to run the management part of that.
 We're trying to review all these indictments that have been issued over the last several years about the way the Federal Government is rim.
@@ -51,10 +47,8 @@ Technology is a part of that, but so is organization and empowerment, which is s
 And I thank you very much.
 We want to do a question and answer now, and then the Vice President is going to talk in more detail about our technology policy later.
 But that's what we and Ed agreed to do.
-He's my boss today; I'm doing what be &mdash; <i[laughter]</i.
 So I wonder if any of you have a question you want to ask us or a comment you want to make.
 Yes, go ahead.
-Export Control Policy # Now that Silicon Graphics has entered the supercomputer arena, supercomputers are subject to very stringent and costly export controls.
 Is part of your agenda to review the export control system, and can industry count on export regulations that will keep pace with technology advances in our changing world? The Vice President.
 Let me start off on that.
 As you may know, the President appointed as the Deputy Secretary of Commerce John Rollwagen, who was the CEO at Cray.
@@ -77,7 +71,6 @@ We also know that some of our export controls, rules and regulations, are a func
 But what the Vice President was trying to say, and he said so well&mdash;I just want to reemphasize&mdash;our biggest security problem in the future may well be the proliferation of nuclear and nonnuclear, like biological and chemical, weapons of mass destruction to small, by our standards, countries with militant governments who may not care what the damage to their own people could be.
 So that's something we have to watch very closely.
 But apart from that, we want to move this much more quickly, and we'll try to slash a lot of the time delays where we ought to be doing these things.
-Scientific Visualization # Mr.
 President, Mr.
 Vice President, you've seen scientific visualization in practice here.
 As a company we're also very interested in ongoing research in high-performance computing and scientific visualization.
@@ -98,18 +91,14 @@ I had hearings one time where a scientist used sort of technical terms that he t
 It made an impression on me.
 He said, If you tried to describe the human mind in terms applicable to a computer, you'd say we have a low bit rate but high resolution.
 Meaning&mdash;this is one of the few audiences I can use that line with.
-<i[Laughter]</i But he went on to explain what that means.
 When we try to absorb information bit by bit, we don't have a huge capacity to do it.
 That's why the telephone company, after extensive studies, decided that seven numbers were the most that we could keep in short-term memory.
 And then they added three more.
-<i[Laughter]</i But if we can see lots of information portrayed visually in a pattern or mosaic, where each bit of data relates to all of the others, we can instantly absorb a lot of information.
 We can all recognize the Milky Way, for example, even though there are trillions of points of light, stars, and so forth.
 And so the idea of incorporating visualization as a key component of this strategy is one that we recognize as very important, and we're going to pursue it.
 Let me just add one thing to that.
 First of all, I told the crowd last night that the Vice President was the only person ever to hold national office in America who knew what the gestalt of the gigabit is.
-<i[Laughter]</i But anyway&mdash;and now we're going to get some very funny articles out of this.
 They're going to make time of us for being policy wonks.
-<i[Laughter]</i Let me say something to sort of take this one step further.
 This whole visualization movement that you have been a part of in your line of work is going to merge in a very short time with the whole business in traditional education theory called applied academics.
 We're now finding, with just sort of basic computer work in the elementary schools of our country, dramatic differences in learning curves among people who can see the work they're doing as opposed to people who are supposed to read it.
 And we're now finding that the IQ's of young people who might take a vocational track in school may not be all that different from kids that would stay in a traditional academic track and wind up at Stanford, but their learning patterns are dramatically different.
@@ -121,7 +110,6 @@ The President and Vice President have also come here today to present a new nati
 Do you want to&mdash; We'll answer some more questions.
 I'm going to forego my time and just let him announce the policy, so we can hear some more questions.
 Got to give the man equal time, I know.
-<i[Laughter]</i I hope you feel that way 4 years from now.
 I really see a possibility in what you stand for, and I really think this is why you were elected, that you say you stand for change.
 You said that during your campaign.
 I think the company believed that.
@@ -150,7 +138,6 @@ But we reduced our investments in the future and the things that make us richer.
 So those are the changes we're trying to effect.
 Let me just make one other point.
 I will not support raising anybody's taxes unless budget cuts also pass.
-Foreign Trade # One of the things that Silicon Graphics has been really successful in is selling into the international markets.
 Approximately 50 percent of our revenues come internationally, including a substantial market in Japan.
 What types of programs does your administration plan to help the high-growth companies of the nineties sell to the international markets? Two things.
 First of all, we intend to try to open new markets and new markets in our region.
@@ -170,11 +157,9 @@ Let me make one final comment on that.
 I think we should devote more Government resources to helping small and medium-size companies figure out how to trade, because that's what the Germans do with such great success and why they're one of the great exporters of the world.
 They don't waste a lot of money on the real big companies that have already figured it out, but they have extra efforts for small and medium-size companies to get them to think global from the beginning of their endeavors.
 And I think we're going to have to do more of that.
-The Environment # In addition to concerns about the economy, Silicon Graphics employees are also concerned about the environment.
 Your economic plan does a great job of promoting R&D investment.
 Are there any elements that are specifically targeted to promote the application of Silicon Graphics technology to environmental-friendly initiatives such as the electric car or the mag-lev train? I think I should let the Vice President answer that since it's his consuming passion.
 And if I do it, his book sales will go up again.
-<i[Laughter]</i We devoted a lot of time and attention to that for two reasons.
 One is the environment needs it.
 Secondly, we think it's wonderful economics, because I believe that all these environmental opportunities that are out there for us represent a major chunk of what people who used to be involved in defense technologies could be doing in the future if we're going to maintain a high wage base in America.
 So I'd like for the Vice President to talk a little about the specifics that we're working on.
@@ -194,13 +179,11 @@ So you'll find when you look at both the technology plan and the economic plan a
 Go ahead, sir.
 They say we have to quit in a minute.
 I'll take one more question after this.
-The Economy # Mr.
 President, Mr.
 Vice President, the news stories and articles that the public has access to regarding the budget and the economy are very often confusing and contradictory.
 I might explain it in the same terms that you used: The information is delivered low bit rate, but the problem is huge and requires the highres view.
 So my question is: I wonder if you're using Lyndon Johnson's computer to analyze the budget and the economy, or whether or not you might be open to using some of the things you've seen here to get the bigger picture and also communicate that to us? Thank you.
 There are two things I'd like to respond to on that, and I'd like to invite you to help.
-<i[Laughter]</i I'd like to invite you to help, and I'd like to invite you to help on two grounds: One is the simple ground of helping to decide which visual images best capture the reality of where we are and where we're going.
 Senator Moynihan and I went to Franklin Roosevelt's home in Hyde Park, New York, just a couple of days ago.
 You may have seen the press on it.
 And on the way back he said to me that the challenges that we face are different from those that Roosevelt faced but just as profound.
