@@ -1,4 +1,4 @@
-My fellow Americans, this day has brought terrible news and great sadness to our country. At 
+﻿My fellow Americans, this day has brought terrible news and great sadness to our country. At 
 nine o'clock this morning, Mission Control in Houston lost contact with our Space Shuttle 
 Columbia. A short time later, debris was seen falling from the skies above Texas. The 
 Columbia is lost; there are no survivors. 
@@ -11,7 +11,7 @@ dangers of travel by rocket, and the difficulties of navigating the f
 the Earth. These astronauts knew the dangers, and they faced them willingly, knowing they 
 had a high and noble purpose in life. Because of their courage, and daring, and idealism, we 
 will miss them all the more.
- 
+
 All Americans today are thinking, as well, of the families of these men and women who have 
 been given this sudden shock and grief. You're not alone. Our entire nation grieves with you. 
 And those you loved will always have the respect and gratitude of this country. The cause in 

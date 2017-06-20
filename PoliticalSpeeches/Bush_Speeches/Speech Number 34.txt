@@ -1,4 +1,4 @@
-President Bush: This is George W Bush, the President of the United States. At this moment, 
+﻿President Bush: This is George W Bush, the President of the United States. At this moment, 
 the regime of Saddam Hussein is being removed from power, and a long era of fear and 
 cruelty is ending. American and coalition forces are now operating inside Baghdad ­­ and we 
 will not stop until Saddam’s corrupt gang is gone. The government of Iraq, and the future of 
@@ -14,7 +14,7 @@ The United States and its coalition partners respect the people of Ir
 unprecedented measures to spare the lives of innocent Iraqi citizens. We are beginning to 
 deliver food and water and medicine to those in need. Our only enemy is Saddam and his 
 brutal regime ­­ and that regime is your enemy as well.
- 
+
 In the new era that is coming to Iraq, your country will no longer be held captive to the will of 
 a cruel dictator. You will be free, free to build a better life, instead of building more palaces for 
 Saddam and his sons, free to pursue economic prosperity without the hardship of economic 
@@ -39,7 +39,7 @@ was being ended, but he stayed, and you suffered. That will not happ
 will be gone, and ended. And then we will work with you to build the peaceful, prosperous Iraq 
 that you want, and that you deserve. And this Iraq will not be run by Britain, or by the United 
 States, or by the United Nations. It will be run by you, the people of Iraq.
- 
+
 Our aim is to help alleviate immediate humanitarian suffering, and to move as soon as 
 possible to an interim authority that is run by Iraqis. That, in turn, will pave the way for a 
 truly representative Iraqi government, which respects human rights and the rule of law and 

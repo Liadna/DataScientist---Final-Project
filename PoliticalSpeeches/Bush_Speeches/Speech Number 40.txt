@@ -1,4 +1,4 @@
-Mr. Speaker, Vice President Cheney, Members of Congress, distinguished guests, and fellow 
+﻿Mr. Speaker, Vice President Cheney, Members of Congress, distinguished guests, and fellow 
 citizens: 
 America this evening is a Nation called to great responsibilities. And we are rising to meet 
 them. 
@@ -18,7 +18,7 @@ We have faced serious challenges together, and now we face a choice.�
 confidence and resolve, or we can turn back to the dangerous illusion that terrorists are not 
 plotting and outlaw regimes are no threat to us. We can press on with economic growth, and 
 reforms in education and Medicare, or we can turn back to old policies and old divisions.
- 
+
 We've not come all this way ­­ through tragedy, and trial, and war ­­ only to falter and leave 
 our work unfinished. Americans are rising to the tasks of history, and they expect the same 
 from us. In their efforts, their enterprise, and their character, the American people are 
@@ -58,7 +58,7 @@ With the help from the new Afghan Army, our coalition is leading agg
 surviving members of the Taliban and al­Qaida. The men and women of Afghanistan are 
 building a nation that is free, and proud, and fighting terror ­­ and America is honored to be 
 their friend.
- 
+
 Since we last met in this chamber, combat forces of the United States, Great Britain, 
 Australia, Poland, and other countries enforced the demands of the United Nations, ended the 
 rule of Saddam Hussein, and the people of Iraq are free. Having broken the Baathist regime, 
@@ -99,7 +99,7 @@ When I came to this rostrum on September 20th, 2001, I brought the 
 officer, my reminder of lives that ended, and a task that does not end. I gave to you and to all 
 Americans my complete commitment to securing our country and defeating our enemies. And 
 this pledge, given by one, has been kept by many.
- 
+
 You in the Congress have provided the resources for our defense, and cast the difficult votes 
 of war and peace. Our closest allies have been unwavering. America's intelligence personnel 
 and diplomats have been skilled and tireless. 
@@ -139,7 +139,7 @@ support for our* operations in Afghanistan and Iraq, and we have gain
 is a difference, however, between leading a coalition of many nations, and submitting to the 
 objections of a few. America will never seek a permission slip to defend the security of our 
 country.
- 
+
 We also hear doubts that democracy is a realistic goal for the greater Middle East, where 
 freedom is rare. Yet it is mistaken, and condescending, to assume that whole cultures and 
 great religions are incompatible with liberty and self­government. I believe that God has 
@@ -179,7 +179,7 @@ These numbers confirm that the American people are using their money 
 government would have, and you were right to return it. 
 America's growing economy is also a changing economy. As technology transforms the way 
 almost every job is done, America becomes more productive, and workers need new skills.
- 
+
 Much of our job growth will be found in high­skilled fields like health care and biotechnology. 
 So we must respond by helping more Americans gain the skills to find good jobs in our new 
 economy. 
@@ -219,7 +219,7 @@ you act, small businesses will pay higher taxes. Unless you act, the�
 come back to life. Unless you act, Americans face a tax increase. What Congress has given, 
 the Congress should not take away: For the sake of job growth, the tax cuts you passed 
 should be permanent.
- 
+
 Our agenda for jobs and growth must help small business owners and employees with relief 
 from needless federal regulation, and protect them from junk and frivolous lawsuits. 
 Consumers and businesses need reliable supplies of energy to make our economy run, so I 
@@ -258,7 +258,7 @@ card, saving them 10 to 25 percent off the retail price of most pre
 millions of low­income seniors can get an additional $600 to buy medicine. Beginning next 
 year, seniors will have new coverage for preventive screenings against diabetes and heart 
 disease, and seniors just entering Medicare can receive wellness exams.
- 
+
 In January of 2006, seniors can get prescription drug coverage under Medicare. For a monthly 
 premium of about $35, most seniors who do not have that coverage today can expect to see 
 their drug bills cut roughly in half. Under this reform, senior citizens will be able to keep their 
@@ -298,7 +298,7 @@ last two years. Four hundred thousand fewer young people are using il
 year 2001. In my budget, I proposed new funding to continue our aggressive, community­ 
 based strategy to reduce demand for illegal drugs. Drug testing in our schools has proven to 
 be an effective part of this effort.
- 
+
 So tonight I proposed an additional $23 million for schools that want to use drug testing as a 
 tool to save children's lives. The aim here is not to punish children, but to send them this 
 message: We love you, and we don't want to lose you. 
@@ -338,7 +338,7 @@ religious institutions. Religious charities of every creed are doing so
 in our country ­­ mentoring children, feeding the hungry, taking the hand of the lonely. Yet 
 government has often denied social service grants and contracts to these groups, just because 
 they have a cross or a Star of David or a crescent on the wall.
- 
+
 By executive order, I have opened billions of dollars in grant money to competition that 
 includes faith­based charities. Tonight I ask you to codify this into law, so people of faith can 
 know that the law will never discriminate against them again. 

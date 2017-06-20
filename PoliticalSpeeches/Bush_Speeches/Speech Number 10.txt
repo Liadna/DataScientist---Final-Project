@@ -1,4 +1,4 @@
-Good evening. 
+﻿Good evening. 
 Today, our fellow citizens, our way of life, our very freedom came under attack in a series of 
 deliberate and deadly terrorist acts. The victims were in airplanes or in their offices: 
 secretaries, business men and women, military and federal workers, moms and dads, friends 
@@ -23,7 +23,7 @@ and around the world from further attacks. The functions of our gover
 interruption. Federal agencies in Washington which had to be evacuated today are reopening 
 for essential personnel tonight and will be open for business tomorrow. Our financial 
 institutions remain strong, and the American economy will be open for business as well.
- 
+
 The search is underway for those who were behind these evil acts. I have directed the full 
 resources of our intelligence and law enforcement communities to find those responsible and 
 to bring them to justice. We will make no distinction between the terrorists who committed 
@@ -36,7 +36,7 @@ to win the war against terrorism. 
 Tonight, I ask for your prayers for all those who grieve, for the children whose worlds have 
 been shattered, for all whose sense of safety and security has been threatened. And I pray 
 they will be comforted by a Power greater than any of us, spoken through the ages in Psalm 
-23: 
+23:
 Even though I walk through the valley of the shadow of death, I fear no evil for you are with 
 me. 
 This is a day when all Americans from every walk of life unite in our resolve for justice and 
