@@ -2,4 +2,4 @@
 
 The file "Final Project - Markdown.ipynb" contains the progress of the project. 
 
-Recently added Part2.
+Recently added Part3-4.
